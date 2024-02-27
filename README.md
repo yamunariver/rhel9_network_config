@@ -10,7 +10,7 @@ sudo nmcli connection up <interface_name>
 
 ```sh
 nmcli connection show <interface_name>
-``
+```
 
 ```sh
 ip addr show <interface_name>
